@@ -25,6 +25,11 @@ A compilation of datasets and methods related to function-calling in the agent f
 #### 2025
 - **Toucan-1.5M** — https://huggingface.co/datasets/Agent-Ark/Toucan-1.5M
 
+#### 2026
+- **MCP Agent Trajectory Benchmark** (50-row free trial, error-recovery trajectories) — https://huggingface.co/datasets/springofwindslabs/mcp-agent-trajectory-benchmark
+- **Function Calling EN Trial** (50-row free trial, schema-validated) — https://huggingface.co/datasets/springofwindslabs/function-calling-en-trial
+- **Function Calling JA Trial** (50-row free trial, Japanese) — https://huggingface.co/datasets/springofwindslabs/function-calling-ja-trial
+
 ### 🧪 Training
 
 #### 2022
