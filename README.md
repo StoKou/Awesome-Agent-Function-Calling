@@ -36,6 +36,9 @@ A compilation of datasets and methods related to function-calling in the agent f
 - **Simia** — https://arxiv.org/pdf/2511.01824
 - **UserRL** — https://arxiv.org/pdf/2509.19736
 
+#### 2026
+- **ToolMaster** — https://arxiv.org/abs/2601.12762
+
 ### 🧭 Benchmarks
 - **VitaBench** — https://arxiv.org/pdf/2509.26490
 - **LongFuncEval** — https://arxiv.org/pdf/2505.10570
